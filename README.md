@@ -21,3 +21,5 @@ This tool is useful for creating useful and personaliced datasets to train chat 
 ### **Requeriments**  
 - Download Ollama
 - Enough resources in your PC based on which model are you using to be the generator and the judge
+- Create the folders, "PDFs", "Outputs" and "Evaluated_Outputs" on the same level of the files "qa_judge.py" and "qa_pdf_local.py" 
+
